@@ -1,0 +1,10 @@
+seq1		12
+seq2		398
+seq3		23
+seq4		58
+seq5		73
+seq6		53
+seq7		113
+seq8		189
+seq9		321
+seq10		54

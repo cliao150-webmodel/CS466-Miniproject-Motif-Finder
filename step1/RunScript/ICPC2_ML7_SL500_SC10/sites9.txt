@@ -1,0 +1,10 @@
+seq1		266
+seq2		283
+seq3		155
+seq4		20
+seq5		415
+seq6		61
+seq7		376
+seq8		113
+seq9		220
+seq10		392
